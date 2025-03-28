@@ -1,4 +1,4 @@
-let numero = 10;
+let numero1 = 10;
 let quadrado = numero ** 2;
 let cubo = numero ** 3;
 
