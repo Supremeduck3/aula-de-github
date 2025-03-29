@@ -5,5 +5,5 @@ if (valor > 0 ){
 }else if (valor == 0){
     console.log("Seu número é zero");
 }else{
-    console.log("Negativo")
+    console.log("Negativo");
 }
