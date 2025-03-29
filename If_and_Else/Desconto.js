@@ -6,5 +6,4 @@ if (preço > 2000){
 }else{
     let Valor1 = preço*5/100;
     console.log("Seu salario com o desconto de 5% é " + (preço-Valor1));
-
 }
